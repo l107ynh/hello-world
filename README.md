@@ -1,2 +1,2 @@
 # hello-world
-Start github with heool-world
+Start github with hello-world
